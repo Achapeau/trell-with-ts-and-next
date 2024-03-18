@@ -12,7 +12,7 @@ const Navbar = () => {
                 variant="outline"
                 asChild>
                     <Link href="/sign-in">
-                        Login!
+                        Login
                     </Link>
                 </Button>
                 <Button size="sm" asChild>
